@@ -1,2 +1,3 @@
-# Estructura-de-los-Computadoresç
+# Estructura-de-los-Computadores
+
 Pr
