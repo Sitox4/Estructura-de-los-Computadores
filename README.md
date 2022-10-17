@@ -1,3 +1,3 @@
 # Estructura-de-los-Computadores
 
-Pr
+Practicas Curso 2022-2023
