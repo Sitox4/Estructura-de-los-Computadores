@@ -9,4 +9,4 @@ En Linux para iniciar Simula3Ms:
   
   
   
-  java -jar Simula3MSv4_12.jar
+            java -jar Simula3MSv4_12.jar
